@@ -1,4 +1,4 @@
-- type: Upcoming Talks
+- type: Upcoming Reading Sessions
   members:
     - speaker: Name, Institution
       date: TBD
@@ -7,7 +7,7 @@
       date: TBD
       abstract: TBD
     
-- type: Previous Talks
+- type: Previous Reading Sessions
   members:
     - speaker: Name, Institution
       date: xx/xx/xxxx
