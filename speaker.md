@@ -9,7 +9,7 @@ permalink: /speaker/
 
 * Stay connected with us and other guest speakers by joining [our community](). 
 
-### For the audience at Vanderbilt and partner institutions
+### For the audience at University of Oregon and partner institutions
 
 You may nominate a well-qualified speaker (including yourself) by filling out this form. Additional comments or suggestions should be communicated via email.
 
