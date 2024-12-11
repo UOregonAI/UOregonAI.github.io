@@ -1,0 +1,17 @@
+- type: Upcoming Talks
+  members:
+    - speaker: Name, Institution
+      date: TBD
+      abstract: TBD
+    - speaker: Name, Institution
+      date: TBD
+      abstract: TBD
+    
+- type: Previous Talks
+  members:
+    - speaker: Name, Institution
+      date: xx/xx/xxxx
+      title: "xxxxxx"
+      abstract: "xxx." 
+      bio: "xxxx."
+      recording: https://www.youtube.com/watch?v=bJu17UlYhc4&list=PLExMLJgvoXpizhYU-phqbTFiRNNkICJ_L&index=18
