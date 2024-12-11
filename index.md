@@ -1,5 +1,5 @@
 ---
-title: Graph Machine Learning Seminar Series
+title: AI Reading Group at University of Oregon
 layout: default
 meta-description: "Seminar series on the frontier of machine learning. Open to public every XXX x:xx-x:xx pm. Recordings are available to the public. "
 ---
