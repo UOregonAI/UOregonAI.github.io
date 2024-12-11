@@ -12,7 +12,7 @@ permalink: /about/
 
 
 
-You may reach us at yu [dot] wang [dot] 1 [at] vanderbilt [dot] edu.
+You may reach us at yu [dot] wang [at] uoregon [dot] edu.
 
 ### Acknowledgements
 
