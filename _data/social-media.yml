@@ -1,25 +1,25 @@
 email:
-  id: 'soheil.kolouri@vanderbilt.edu'
+  id: 'yuwang@uoregon.edu'
   href: 'mailto:'
   title: 'Email'
   fa-icon: 'fa-envelope'
 
 
 twitter:
-  id: 'vanderbiltml'
+  id: 'uoregonai'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
   fa-icon: 'fa-twitter'
 
 
 linkedin:
-  id: 'vanderbiltml'
+  id: 'uoregonai'
   href: 'https://www.linkedin.com/company/'
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin'
 
 instagram:
-  id: 'vanderbiltmlss'
+  id: 'uoregon'
   href: 'https://www.instagram.com/'
   title: 'Instagram'
   fa-icon: 'fa-instagram'
