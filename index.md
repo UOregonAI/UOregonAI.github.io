@@ -12,8 +12,8 @@ meta-description: "Regularly Reading Group on the Frontier of Artificial Intelli
 
 
 <div class="announcement-group" markdown="1">
-   * Our talks are open to the public. No registration is required.
-   * Our virtual (Zoom) talks are on xx at xx:xx PM CT and typically last for 1 hour (approximately 45 to 50-minute talk plus Q&A).
+   * Our reading sessions are open to the public. No registration is required.
+   * Our virtual (Zoom) reading sessions are on xx at xx:xx PM PST and typically last for 1 hour (approximately 45-minute presentation plus Q&A).
 <!--    * Join our [Google group](xxxx) for discussions and notifications of upcoming talks.  -->
 <!--    * Visit this site at the scheduled time to attend. If you are not affiliated with Vanderbilt, request your access [here](https://forms.gle/zijM9mau411Sx5M78). -->
 </div>
