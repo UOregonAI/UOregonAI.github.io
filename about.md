@@ -4,11 +4,9 @@ title: About the seminar
 permalink: /about/
 ---
 
-**Seminar Organizers:**[TBD]()
+**Reading Group Organizers:**[TBD]()
 
-**Seminar Hosts:** [TBD]()
-
-**Student Directors:** [TBD]()
+**Reading Group Hosts:** [TBD]()
 
 
 
